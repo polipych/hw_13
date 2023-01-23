@@ -1,0 +1,5 @@
+/venv
+/hw_13/__pycache__
+/hw_13/middlewares.py
+/hw_13/spiders/__pycache__
+db.sqlite3
